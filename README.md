@@ -2,15 +2,17 @@
 
 ## Checklist
 
+### Conhecendo o ambiente
 - [x] Apresentação
 - [x] Preparando o ambiente
 - [x] Criando o projeto
-- [ ] Faça como eu fiz: Primeiro projeto
-- [ ] Criando o primeiro componente
+- [x] Faça como eu fiz: Primeiro projeto
+- [x] Criando o primeiro componente
 - [ ] Utilizando o primeiro componente
 - [ ] Hello world!
 - [ ] Faça como eu fiz: Implementando!
 - [ ] O que aprendemos?
+
 
 ## Version
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
