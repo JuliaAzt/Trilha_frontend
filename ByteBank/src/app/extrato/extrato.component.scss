@@ -3,7 +3,11 @@
   font-size: 24px;
   margin-bottom: 16px;
 }
-
+/*
+  * BEM - BLOCK ELEMENT MODIFIER
+  * <nome-classe-el-bloco-PAI>__<el-filho> (BLOCK ELEMENT) => classe para o elemento filho está contido dentro do bloco Pai
+  * <nome-classe-el-bloco>--<nome-modificação> (MODIFIER) => modificações no elemento pai
+*/
 .tabela {
   text-align: center;
   margin: 0 auto;

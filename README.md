@@ -38,10 +38,10 @@
 - [x] Enviando dados para o componente
 - [x] Exibindo lista com ngFor
 - [x] Melhorando a visualização #1
-- [ ] Lista com ngFor
-- [ ] Preparando o ambiente
-- [ ] Faça como eu fiz: Implementando!
-- [ ] Para saber mais: Metodologia BEM
+- [x] Lista com ngFor
+- [x] Preparando o ambiente
+- [x] Faça como eu fiz: Implementando!
+- [x] Para saber mais: Metodologia BEM
 - [ ] O que aprendemos?
 
 ### Service
