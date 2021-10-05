@@ -6,8 +6,16 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'ByteBank';
-  transferir($event){
-    alert(`evento ${JSON.stringify($event)}`);
+
+  valor: number;
+  destino: number;
+  transferencia: any;
+
+  transferirApp($event){
+    this.valor = $event.valor;
+    this.destino = $event.destino;
+    this.transferencia = $event;
+
+   // alert(`Metodo invocado - valor: ${this.valor} - destino: ${this.destino}`);
   }
 }

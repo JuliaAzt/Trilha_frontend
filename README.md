@@ -26,8 +26,8 @@
 ### Exportando dados do componente
 - [x] Projeto da aula anterior
 - [x] Exportando dados com output
-- [ ] Recebendo dados no componente
-- [ ] Interpolando dados
+- [x] Recebendo dados no componente
+- [x] Interpolando dados
 - [ ] Propagando evento
 - [ ] Faça como eu fiz: Implementando!
 - [ ] O que aprendemos?

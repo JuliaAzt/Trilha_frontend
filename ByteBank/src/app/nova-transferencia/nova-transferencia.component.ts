@@ -13,7 +13,6 @@ export class NovaTransferenciaComponent {
   valor: number;
   destino: number;
   transferir() {
-    alert(`Metodo invocado - valor: ${this.valor} - destino: ${this.destino}`);
 
     //** Propagação dos valores
     this.aoTransferir.emit({valor: this.valor, destino: this.destino});
