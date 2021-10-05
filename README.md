@@ -33,9 +33,44 @@
 - [x] O que aprendemos?
 
 ### Transferências
+- [x] Projeto da aula anterior
+- [x] Criando componente de transferências
+- [ ] Enviando dados para o componente
+- [ ] Exibindo lista com ngFor
+- [ ] Melhorando a visualização #1
+- [ ] Lista com ngFor
+- [ ] Preparando o ambiente
+- [ ] Faça como eu fiz: Implementando!
+- [ ] Para saber mais: Metodologia BEM
+- [ ] O que aprendemos?
+
 ### Service
+- [ ] Projeto da aula anterior
+- [ ] Criando mensagem com nglf
+- [ ] Criando primeiro service
+- [ ] Service
+- [ ] Faça como eu fiz: Implementando!
+- [ ] O que aprendemos?
+
 ### Comunicação HTTP
+- [ ] Projeto da aula anterior
+- [ ] Preparando o ambiente
+- [ ] Preparando a API REST
+- [ ] Integrando os extratos com a API
+- [ ] Integrando o formulário com a API
+- [ ] Tratamento de erros
+- [ ] Faça como eu fiz: Implementando!
+- [ ] O que aprendemos?
+
 ### Rotas
+- [ ] Projeto da aula anterior
+- [ ] Apresentando o módulo Roter
+- [ ] Melhorando a usabilidade com o RouterLink
+- [ ] Adicionando um novo link
+- [ ] Faça como eu fiz: Implementando!
+- [ ] Projeto final do curso
+- [ ] O que aprendemos?
+- [ ] Conclusão
 
 ## Version
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
