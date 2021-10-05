@@ -18,11 +18,24 @@
 - [x] Preparando o ambiente
 - [x] Estilizando o formulário
 - [x] Criando o evento do formulário
-- [ ] Property Bind
-- [ ] Data Binding
+- [x] Property Bind
+- [x] Data Binding
+- [x] Faça como eu fiz: Implementando!
+- [x] O que aprendemos?
+
+### Exportando dados do componente
+- [ ] Projeto da aula anterior
+- [ ] Exportando dados com output
+- [ ] Recebendo dados no componente
+- [ ] Interpolando dados
+- [ ] Propagando evento
 - [ ] Faça como eu fiz: Implementando!
 - [ ] O que aprendemos?
 
+### Transferências
+### Service
+### Comunicação HTTP
+### Rotas
 
 ## Version
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
