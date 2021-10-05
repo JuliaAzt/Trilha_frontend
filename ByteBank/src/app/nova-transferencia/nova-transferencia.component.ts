@@ -17,15 +17,20 @@ export class NovaTransferenciaComponent {
     if (this.isValid()) {
       const valorEmitir = { valor: this.valor, destino: this.destino, data: new Date() };
       this.aoTransferir.emit(valorEmitir);
+      this.limpaCampos();
+    }
+    else {
+      this.valoresComErro.emit('Informe um valor válido');
     }
 
+
+  }
+  private limpaCampos(){
+    this.valor = 0;
+    this.destino = 0 ;
   }
 
   private isValid() {
-    const valido = this.valor > 0;
-
-    if (!valido) this.valoresComErro.emit('Informe um valor válido');
-
-    return valido;
-}
+    return this.valor > 0;
+  }
 }

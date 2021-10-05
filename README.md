@@ -47,10 +47,10 @@
 ### Service
 - [x] Projeto da aula anterior
 - [x] Criando mensagem com nglf
-- [ ] Criando primeiro service
-- [ ] Service
-- [ ] Faça como eu fiz: Implementando!
-- [ ] O que aprendemos?
+- [x] Criando primeiro service
+- [x] Service
+- [x] Faça como eu fiz: Implementando!
+- [x] O que aprendemos?
 
 ### Comunicação HTTP
 - [ ] Projeto da aula anterior
