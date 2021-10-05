@@ -9,7 +9,17 @@
 - [x] Faça como eu fiz: Primeiro projeto
 - [x] Criando o primeiro componente
 - [x] Utilizando o primeiro componente
-- [ ] Hello world!
+- [x] Hello world!
+- [x] Faça como eu fiz: Implementando!
+- [x] O que aprendemos?
+
+### Formulário de nova transferência
+- [x] Projeto da aula anterior
+- [x] Preparando o ambiente
+- [x] Estilizando o formulário
+- [ ] Criando o evento do formulário
+- [ ] Property Bind
+- [ ] Data Binding
 - [ ] Faça como eu fiz: Implementando!
 - [ ] O que aprendemos?
 
