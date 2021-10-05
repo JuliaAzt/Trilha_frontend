@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ByteBank';
+  transferir($event){
+    alert(`evento ${JSON.stringify($event)}`);
+  }
 }
