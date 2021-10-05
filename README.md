@@ -17,7 +17,7 @@
 - [x] Projeto da aula anterior
 - [x] Preparando o ambiente
 - [x] Estilizando o formulário
-- [ ] Criando o evento do formulário
+- [x] Criando o evento do formulário
 - [ ] Property Bind
 - [ ] Data Binding
 - [ ] Faça como eu fiz: Implementando!
