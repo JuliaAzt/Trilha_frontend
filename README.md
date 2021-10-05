@@ -24,8 +24,8 @@
 - [x] O que aprendemos?
 
 ### Exportando dados do componente
-- [ ] Projeto da aula anterior
-- [ ] Exportando dados com output
+- [x] Projeto da aula anterior
+- [x] Exportando dados com output
 - [ ] Recebendo dados no componente
 - [ ] Interpolando dados
 - [ ] Propagando evento
