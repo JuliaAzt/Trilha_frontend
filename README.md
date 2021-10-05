@@ -8,7 +8,7 @@
 - [x] Criando o projeto
 - [x] Faça como eu fiz: Primeiro projeto
 - [x] Criando o primeiro componente
-- [ ] Utilizando o primeiro componente
+- [x] Utilizando o primeiro componente
 - [ ] Hello world!
 - [ ] Faça como eu fiz: Implementando!
 - [ ] O que aprendemos?
