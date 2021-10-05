@@ -28,9 +28,9 @@
 - [x] Exportando dados com output
 - [x] Recebendo dados no componente
 - [x] Interpolando dados
-- [ ] Propagando evento
-- [ ] Faça como eu fiz: Implementando!
-- [ ] O que aprendemos?
+- [x] Propagando evento
+- [x] Faça como eu fiz: Implementando!
+- [x] O que aprendemos?
 
 ### Transferências
 ### Service

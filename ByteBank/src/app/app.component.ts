@@ -18,4 +18,8 @@ export class AppComponent {
 
    // alert(`Metodo invocado - valor: ${this.valor} - destino: ${this.destino}`);
   }
+
+  exibirModalErro(mensagem){
+    alert(mensagem);
+  }
 }
