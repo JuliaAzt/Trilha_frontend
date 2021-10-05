@@ -1,3 +1,21 @@
+<div class="container">
 
-<p>Valor: {{extrato?.valor}}</p>
-<p>Destino: {{extrato?.destino}}</p>
+<table>
+  <thead>
+    <tr>
+      <th>Data</th>
+      <th>Valor</th>
+      <th>Destino</th>
+    </tr>
+  </thead>
+  <tbody *ngFor="let transferencia of extrato">
+    <tr>
+      <td>{{transferencia?.data}}</td>
+      <td>{{transferencia?.valor}}</td>
+      <td>{{transferencia?.destino}}</td>
+    </tr>
+  </tbody>
+</table>
+
+
+</div>

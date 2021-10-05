@@ -12,15 +12,16 @@ export class NovaTransferenciaComponent {
 
   valor: number;
   destino: number;
+  data: string;
   transferir() {
 
     if (this.isValid()) {
-      const valorEmitir = { valor: this.valor, destino: this.destino };
+      let d = new Date();
+      this.data = `${d.getDate()}/${d.getMonth()}/${d.getFullYear()} - ${d.getHours()}:${d.getMinutes()}:${d.getSeconds()}`;
+      const valorEmitir = { valor: this.valor, destino: this.destino, data: this.data };
       this.aoTransferir.emit(valorEmitir);
     }
 
-    //** Propagação dos valores
-    this.aoTransferir.emit({ valor: this.valor, destino: this.destino });
   }
 
   private isValid() {

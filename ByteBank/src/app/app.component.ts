@@ -7,16 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 
-  valor: number;
-  destino: number;
-  transferencia: any;
+  transferencias: any[] = [];
 
   transferirApp($event){
-    this.valor = $event.valor;
-    this.destino = $event.destino;
-    this.transferencia = $event;
-
-   // alert(`Metodo invocado - valor: ${this.valor} - destino: ${this.destino}`);
+    this.transferencias.push($event);
   }
 
   exibirModalErro(mensagem){

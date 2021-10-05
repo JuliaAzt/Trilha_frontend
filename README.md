@@ -36,7 +36,7 @@
 - [x] Projeto da aula anterior
 - [x] Criando componente de transferências
 - [x] Enviando dados para o componente
-- [ ] Exibindo lista com ngFor
+- [x] Exibindo lista com ngFor
 - [ ] Melhorando a visualização #1
 - [ ] Lista com ngFor
 - [ ] Preparando o ambiente
