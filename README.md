@@ -42,11 +42,11 @@
 - [x] Preparando o ambiente
 - [x] Faça como eu fiz: Implementando!
 - [x] Para saber mais: Metodologia BEM
-- [ ] O que aprendemos?
+- [x] O que aprendemos?
 
 ### Service
-- [ ] Projeto da aula anterior
-- [ ] Criando mensagem com nglf
+- [x] Projeto da aula anterior
+- [x] Criando mensagem com nglf
 - [ ] Criando primeiro service
 - [ ] Service
 - [ ] Faça como eu fiz: Implementando!
