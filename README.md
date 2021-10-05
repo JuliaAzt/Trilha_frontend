@@ -37,7 +37,7 @@
 - [x] Criando componente de transferências
 - [x] Enviando dados para o componente
 - [x] Exibindo lista com ngFor
-- [ ] Melhorando a visualização #1
+- [x] Melhorando a visualização #1
 - [ ] Lista com ngFor
 - [ ] Preparando o ambiente
 - [ ] Faça como eu fiz: Implementando!

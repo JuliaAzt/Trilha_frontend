@@ -12,13 +12,10 @@ export class NovaTransferenciaComponent {
 
   valor: number;
   destino: number;
-  data: string;
   transferir() {
 
     if (this.isValid()) {
-      let d = new Date();
-      this.data = `${d.getDate()}/${d.getMonth()}/${d.getFullYear()} - ${d.getHours()}:${d.getMinutes()}:${d.getSeconds()}`;
-      const valorEmitir = { valor: this.valor, destino: this.destino, data: this.data };
+      const valorEmitir = { valor: this.valor, destino: this.destino, data: new Date() };
       this.aoTransferir.emit(valorEmitir);
     }
 
