@@ -1,11 +1,5 @@
 <app-nova-transferencia (aoTransferir)="transferirApp($event)" (valoresComErro)="exibirModalErro($event)" ></app-nova-transferencia>
-<app-extrato></app-extrato>
-<!--
-<p>Valor: {{valor}}</p>
-<p>Destino: {{destino}}</p>
-<hr/>
--->
+<app-extrato [extrato]="transferencia"></app-extrato>
 
-<p>Valor: {{transferencia?.valor}}</p>
-<p>Destino: {{transferencia?.destino}}</p>
+
 
