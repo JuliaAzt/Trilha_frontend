@@ -53,9 +53,9 @@
 - [x] O que aprendemos?
 
 ### Comunicação HTTP
-- [ ] Projeto da aula anterior
-- [ ] Preparando o ambiente
-- [ ] Preparando a API REST
+- [x] Projeto da aula anterior
+- [x] Preparando o ambiente
+- [x] Preparando a API REST
 - [ ] Integrando os extratos com a API
 - [ ] Integrando o formulário com a API
 - [ ] Tratamento de erros
