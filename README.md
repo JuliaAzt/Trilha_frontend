@@ -11,13 +11,13 @@
 - [x] Expondo o componente
 - [x] Organizando as rotas
 - [x] Login
-- [ ] Por que usar módulos Angular?
-- [ ] Faça como eu fiz: Implementando!
-- [ ] O que aprendemos?
+- [x] Por que usar módulos Angular?
+- [x] Faça como eu fiz: Implementando!
+- [x] O que aprendemos?
 
 ### Login
-- [ ] Projeto da aula anterior
-- [ ] Serviço de autenticação
+- [x] Projeto da aula anterior
+- [x] Serviço de autenticação
 - [ ] Formulário Template-Driven
 - [ ] Consumindo o serviço de autenticação
 - [ ] Redirecionando a rota
