@@ -10,7 +10,7 @@
 - [x] Template e pasta assets
 - [x] Expondo o componente
 - [x] Organizando as rotas
-- [ ] Login
+- [x] Login
 - [ ] Por que usar módulos Angular?
 - [ ] Faça como eu fiz: Implementando!
 - [ ] O que aprendemos?
