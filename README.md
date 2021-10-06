@@ -18,7 +18,7 @@
 ### Login
 - [x] Projeto da aula anterior
 - [x] Serviço de autenticação
-- [ ] Formulário Template-Driven
+- [x] Formulário Template-Driven
 - [ ] Consumindo o serviço de autenticação
 - [ ] Redirecionando a rota
 - [ ] Componente de mensagem
