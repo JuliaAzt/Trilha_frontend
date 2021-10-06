@@ -4,8 +4,8 @@
 - [x] Apresentação
 - [x] Preparando o ambiente
 - [x] Projeto Strict
-- [ ] Para saber mais: Mais produtividade com seu Visual Studio Code
-- [ ] Bootstrap
+- [x] Para saber mais: Mais produtividade com seu Visual Studio Code
+- [x] Bootstrap
 - [ ] Módulo Home
 - [ ] Template e pasta assets
 - [ ] Expondo o componente
