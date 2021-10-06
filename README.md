@@ -7,7 +7,7 @@
 - [x] Para saber mais: Mais produtividade com seu Visual Studio Code
 - [x] Bootstrap
 - [x] Módulo Home
-- [ ] Template e pasta assets
+- [x] Template e pasta assets
 - [ ] Expondo o componente
 - [ ] Organizando as rotas
 - [ ] Login
