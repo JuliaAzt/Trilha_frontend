@@ -20,21 +20,18 @@ import {Transferencia} from '../models/transferencia.model';
 
 export class TransferenciasService {
 
-  private transferencias: any[];
+  /*json-server --watch db.json*/
   private url = "http://localhost:3000/transferencias";
 
   constructor(private httpClient: HttpClient) {
-    this.transferencias = [];
   }
-  get Transferencias(){
-    return this.transferencias;
-  }
+
   buscaExtrato(){
     return this.httpClient.get<Transferencia[]>(this.url);
   }
 
-  adicionar(transferencias: any){
-    this.transferencias.push(transferencias);
+  adicionar(transferencia: Transferencia){
+    return this.httpClient.post<Transferencia>(this.url, transferencia);
   }
 
 }

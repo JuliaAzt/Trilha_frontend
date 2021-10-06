@@ -57,10 +57,10 @@
 - [x] Preparando o ambiente
 - [x] Preparando a API REST
 - [x] Integrando os extratos com a API
-- [ ] Integrando o formulário com a API
-- [ ] Tratamento de erros
-- [ ] Faça como eu fiz: Implementando!
-- [ ] O que aprendemos?
+- [x] Integrando o formulário com a API
+- [x] Tratamento de erros
+- [x] Faça como eu fiz: Implementando!
+- [x] O que aprendemos?
 
 ### Rotas
 - [ ] Projeto da aula anterior
