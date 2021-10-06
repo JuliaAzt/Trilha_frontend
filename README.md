@@ -1,9 +1,9 @@
 # Gatito Book
 ## Checklist
 ### Home
-- [ ] Apresentação
-- [ ] Preparando o ambiente
-- [ ] Projeto Strict
+- [x] Apresentação
+- [x] Preparando o ambiente
+- [x] Projeto Strict
 - [ ] Para saber mais: Mais produtividade com seu Visual Studio Code
 - [ ] Bootstrap
 - [ ] Módulo Home
