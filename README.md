@@ -63,8 +63,8 @@
 - [x] O que aprendemos?
 
 ### Rotas
-- [ ] Projeto da aula anterior
-- [ ] Apresentando o módulo Roter
+- [x] Projeto da aula anterior
+- [x] Apresentando o módulo Roter
 - [ ] Melhorando a usabilidade com o RouterLink
 - [ ] Adicionando um novo link
 - [ ] Faça como eu fiz: Implementando!

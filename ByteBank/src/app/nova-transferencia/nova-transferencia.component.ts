@@ -9,8 +9,6 @@ import { Transferencia } from '../models/transferencia.model';
 })
 export class NovaTransferenciaComponent {
 
-  @Output() valoresComErro = new EventEmitter<string>();
-
   valor: number;
   destino: string;
 
@@ -24,12 +22,12 @@ export class NovaTransferenciaComponent {
         console.log(resultado);
         this.limpaCampos();
       }, (error) => {
-        this.valoresComErro.emit(error);
+        this.exibirModalErro(error);
       });
 
     }
     else {
-      this.valoresComErro.emit('Informe um valor válido');
+      this.exibirModalErro('Informe um valor válido');
     }
 
 
@@ -41,5 +39,9 @@ export class NovaTransferenciaComponent {
 
   private isValid() {
     return this.valor > 0;
+  }
+
+  private exibirModalErro(mensagem){
+    alert(mensagem);
   }
 }
