@@ -6,7 +6,7 @@
 - [x] Projeto Strict
 - [x] Para saber mais: Mais produtividade com seu Visual Studio Code
 - [x] Bootstrap
-- [ ] Módulo Home
+- [x] Módulo Home
 - [ ] Template e pasta assets
 - [ ] Expondo o componente
 - [ ] Organizando as rotas
