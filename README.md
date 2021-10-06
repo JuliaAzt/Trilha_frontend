@@ -65,12 +65,12 @@
 ### Rotas
 - [x] Projeto da aula anterior
 - [x] Apresentando o módulo Roter
-- [ ] Melhorando a usabilidade com o RouterLink
-- [ ] Adicionando um novo link
-- [ ] Faça como eu fiz: Implementando!
-- [ ] Projeto final do curso
-- [ ] O que aprendemos?
-- [ ] Conclusão
+- [x] Melhorando a usabilidade com o RouterLink
+- [x] Adicionando um novo link
+- [x] Faça como eu fiz: Implementando!
+- [x] Projeto final do curso
+- [x] O que aprendemos?
+- [x] Conclusão
 
 ## Version
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
