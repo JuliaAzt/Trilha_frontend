@@ -9,7 +9,7 @@
 - [x] Módulo Home
 - [x] Template e pasta assets
 - [x] Expondo o componente
-- [ ] Organizando as rotas
+- [x] Organizando as rotas
 - [ ] Login
 - [ ] Por que usar módulos Angular?
 - [ ] Faça como eu fiz: Implementando!
