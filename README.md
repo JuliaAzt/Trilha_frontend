@@ -8,7 +8,7 @@
 - [x] Bootstrap
 - [x] Módulo Home
 - [x] Template e pasta assets
-- [ ] Expondo o componente
+- [x] Expondo o componente
 - [ ] Organizando as rotas
 - [ ] Login
 - [ ] Por que usar módulos Angular?
