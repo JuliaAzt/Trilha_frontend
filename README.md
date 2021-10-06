@@ -56,7 +56,7 @@
 - [x] Projeto da aula anterior
 - [x] Preparando o ambiente
 - [x] Preparando a API REST
-- [ ] Integrando os extratos com a API
+- [x] Integrando os extratos com a API
 - [ ] Integrando o formulário com a API
 - [ ] Tratamento de erros
 - [ ] Faça como eu fiz: Implementando!

@@ -1,5 +1,6 @@
 import { Injectable } from '@angular/core';
-
+import { HttpClient } from '@angular/common/http';
+import {Transferencia} from '../models/transferencia.model';
 @Injectable({
   providedIn: 'root'
 })
@@ -20,12 +21,18 @@ import { Injectable } from '@angular/core';
 export class TransferenciasService {
 
   private transferencias: any[];
-  constructor() {
+  private url = "http://localhost:3000/transferencias";
+
+  constructor(private httpClient: HttpClient) {
     this.transferencias = [];
   }
   get Transferencias(){
     return this.transferencias;
   }
+  buscaExtrato(){
+    return this.httpClient.get<Transferencia[]>(this.url);
+  }
+
   adicionar(transferencias: any){
     this.transferencias.push(transferencias);
   }
