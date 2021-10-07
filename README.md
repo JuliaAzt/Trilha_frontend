@@ -29,8 +29,8 @@
 - [x] O que aprendemos?
 
 ### Cadastro de Usuário
-- [ ] Projeto da aula anterior
-- [ ] Criando Componente
+- [x] Projeto da aula anterior
+- [x] Criando Componente
 - [ ] RouterLink
 - [ ] Serviço de Novo Usuário
 - [ ] Formulário Reativo
