@@ -32,7 +32,7 @@
 - [x] Projeto da aula anterior
 - [x] Criando Componente
 - [x] RouterLink
-- [ ] Serviço de Novo Usuário
+- [x] Serviço de Novo Usuário
 - [ ] Formulário Reativo
 - [ ] Criando um formulário reativo
 - [ ] Faça como eu fiz: Implementando!
