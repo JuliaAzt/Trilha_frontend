@@ -22,7 +22,7 @@
 - [x] Consumindo o serviço de autenticação
 - [x] Redirecionando a rota
 - [x] Componente de mensagem
-- [ ] Validação de campos
+- [x] Validação de campos
 - [ ] Validação de formulário
 - [ ] Formulários Angular Template Driven
 - [ ] Faça como eu fiz: Implementando!
