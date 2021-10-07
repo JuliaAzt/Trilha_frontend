@@ -31,7 +31,7 @@
 ### Cadastro de Usuário
 - [x] Projeto da aula anterior
 - [x] Criando Componente
-- [ ] RouterLink
+- [x] RouterLink
 - [ ] Serviço de Novo Usuário
 - [ ] Formulário Reativo
 - [ ] Criando um formulário reativo
