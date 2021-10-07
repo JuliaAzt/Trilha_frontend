@@ -19,7 +19,7 @@
 - [x] Projeto da aula anterior
 - [x] Serviço de autenticação
 - [x] Formulário Template-Driven
-- [ ] Consumindo o serviço de autenticação
+- [x] Consumindo o serviço de autenticação
 - [ ] Redirecionando a rota
 - [ ] Componente de mensagem
 - [ ] Validação de campos
