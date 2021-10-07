@@ -20,7 +20,7 @@
 - [x] Serviço de autenticação
 - [x] Formulário Template-Driven
 - [x] Consumindo o serviço de autenticação
-- [ ] Redirecionando a rota
+- [x] Redirecionando a rota
 - [ ] Componente de mensagem
 - [ ] Validação de campos
 - [ ] Validação de formulário
