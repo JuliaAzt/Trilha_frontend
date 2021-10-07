@@ -21,7 +21,7 @@
 - [x] Formulário Template-Driven
 - [x] Consumindo o serviço de autenticação
 - [x] Redirecionando a rota
-- [ ] Componente de mensagem
+- [x] Componente de mensagem
 - [ ] Validação de campos
 - [ ] Validação de formulário
 - [ ] Formulários Angular Template Driven
