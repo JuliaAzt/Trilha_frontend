@@ -23,10 +23,10 @@
 - [x] Redirecionando a rota
 - [x] Componente de mensagem
 - [x] Validação de campos
-- [ ] Validação de formulário
-- [ ] Formulários Angular Template Driven
-- [ ] Faça como eu fiz: Implementando!
-- [ ] O que aprendemos?
+- [x] Validação de formulário
+- [x] Formulários Angular Template Driven
+- [x] Faça como eu fiz: Implementando!
+- [x] O que aprendemos?
 
 ### Cadastro de Usuário
 - [ ] Projeto da aula anterior
