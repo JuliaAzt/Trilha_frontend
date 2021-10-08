@@ -33,10 +33,10 @@
 - [x] Criando Componente
 - [x] RouterLink
 - [x] Serviço de Novo Usuário
-- [ ] Formulário Reativo
-- [ ] Criando um formulário reativo
-- [ ] Faça como eu fiz: Implementando!
-- [ ] O que aprendemos?
+- [x] Formulário Reativo
+- [x] Criando um formulário reativo
+- [x] Faça como eu fiz: Implementando!
+- [x] O que aprendemos?
 
 ### Validação de formulário assíncrono
 
