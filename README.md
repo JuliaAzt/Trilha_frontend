@@ -47,14 +47,14 @@
 - [x] Para saber mais: Validando com formBuilder
 - [x] Validação de Formulário
 - [x] Cadastro de Usuário
-- [ ] Validações em um formulário reativo
-- [ ] Faça como eu fiz: Implementando!
-- [ ] O que aprendemos?
+- [x] Validações em um formulário reativo
+- [x] Faça como eu fiz: Implementando!
+- [x] O que aprendemos?
 
 ### Autenticação
-- [ ] Projeto da aula anterior
-- [ ] Inspecionando a API de Login
-- [ ] Token
+- [x] Projeto da aula anterior
+- [x] Inspecionando a API de Login
+- [x] Token
 - [ ] Serviço de Usuário
 - [ ] Serviço de Autenticação
 - [ ] Cabeçalho
