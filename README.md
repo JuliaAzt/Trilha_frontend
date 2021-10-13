@@ -43,10 +43,10 @@
 - [x] Projeto da aula anterior
 - [x] Validação Padrão
 - [x] Validações Customizadas
-- [ ] Validações Assíncronas
-- [ ] Para saber mais: Validando com formBuilder
-- [ ] Validação de Formulário
-- [ ] Cadastro de Usuário
+- [x] Validações Assíncronas
+- [x] Para saber mais: Validando com formBuilder
+- [x] Validação de Formulário
+- [x] Cadastro de Usuário
 - [ ] Validações em um formulário reativo
 - [ ] Faça como eu fiz: Implementando!
 - [ ] O que aprendemos?
