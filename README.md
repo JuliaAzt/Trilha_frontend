@@ -40,8 +40,8 @@
 
 ### Validação de formulário assíncrono
 
-- [ ] Projeto da aula anterior
-- [ ] Validação Padrão
+- [x] Projeto da aula anterior
+- [x] Validação Padrão
 - [ ] Validações Customizadas
 - [ ] Validações Assíncronas
 - [ ] Para saber mais: Validando com formBuilder
