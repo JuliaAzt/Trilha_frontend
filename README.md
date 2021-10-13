@@ -42,7 +42,7 @@
 
 - [x] Projeto da aula anterior
 - [x] Validação Padrão
-- [ ] Validações Customizadas
+- [x] Validações Customizadas
 - [ ] Validações Assíncronas
 - [ ] Para saber mais: Validando com formBuilder
 - [ ] Validação de Formulário
