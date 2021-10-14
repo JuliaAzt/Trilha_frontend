@@ -7,10 +7,10 @@
 - [x] Preparando o ambiente
 - [x] Para saber mais
 - [x] Criando o primeiro teste
-- [ ] Organizando o arquivo de teste
-- [ ] Como organizar nossos testes?
-- [ ] Faça como eu fiz
-- [ ] O que aprendemos?
+- [x] Organizando o arquivo de teste
+- [x] Como organizar nossos testes?
+- [x] Faça como eu fiz
+- [x] O que aprendemos?
 
 ### Testando funções
 - [ ] Projeto da aula anterior
