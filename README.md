@@ -1,4 +1,4 @@
-## Trilha frontend
+## Trilha frontend Alura
 |  | Branch | Curso |
 | --- | --- | --- |
 | ✔️ | 01_angular | Angular: Começando com o framework |
