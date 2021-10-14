@@ -5,8 +5,8 @@
 ### Começando a escrever testes
 - [x] Apresentação
 - [x] Preparando o ambiente
-- [ ] Para saber mais
-- [ ] Criando o primeiro teste
+- [x] Para saber mais
+- [x] Criando o primeiro teste
 - [ ] Organizando o arquivo de teste
 - [ ] Como organizar nossos testes?
 - [ ] Faça como eu fiz
