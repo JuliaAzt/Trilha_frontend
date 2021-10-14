@@ -56,7 +56,7 @@
 - [x] Inspecionando a API de Login
 - [x] Token
 - [x] Serviço de Usuário
-- [ ] Serviço de Autenticação
+- [x] Serviço de Autenticação
 - [ ] Cabeçalho
 - [ ] Rodapé
 - [ ] Trabalhando com token JWT
