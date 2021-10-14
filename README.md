@@ -58,12 +58,12 @@
 - [x] Serviço de Usuário
 - [x] Serviço de Autenticação
 - [x] Cabeçalho
-- [ ] Rodapé
-- [ ] Trabalhando com token JWT
-- [ ] Faça como eu fiz: Finalizando!
-- [ ] Projeto final do curso
-- [ ] O que aprendemos?
-- [ ] Conclusão
+- [x] Rodapé
+- [x] Trabalhando com token JWT
+- [x] Faça como eu fiz: Finalizando!
+- [x] Projeto final do curso
+- [x] O que aprendemos?
+- [x] Conclusão
 
 ## Development server
 
