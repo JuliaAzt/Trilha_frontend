@@ -4,11 +4,11 @@ import App from './App';
 
 describe('Componente principal', () => {
   describe('Quando eu abro o app do banco', () => {
-    test('O nome é exibido', () => {
+    it('O nome é exibido', () => {
       render(<App />);
       expect(screen.getByText('ByteBank')).toBeInTheDocument();
     })
-    
+
     it('O saldo é exibido', () => {
       render(<App />);
       expect(screen.getByText('Saldo:')).toBeInTheDocument();
