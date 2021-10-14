@@ -55,7 +55,7 @@
 - [x] Projeto da aula anterior
 - [x] Inspecionando a API de Login
 - [x] Token
-- [ ] Serviço de Usuário
+- [x] Serviço de Usuário
 - [ ] Serviço de Autenticação
 - [ ] Cabeçalho
 - [ ] Rodapé
