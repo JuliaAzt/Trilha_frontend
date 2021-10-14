@@ -57,7 +57,7 @@
 - [x] Token
 - [x] Serviço de Usuário
 - [x] Serviço de Autenticação
-- [ ] Cabeçalho
+- [x] Cabeçalho
 - [ ] Rodapé
 - [ ] Trabalhando com token JWT
 - [ ] Faça como eu fiz: Finalizando!
