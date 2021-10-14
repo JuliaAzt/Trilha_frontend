@@ -13,8 +13,8 @@
 - [x] O que aprendemos?
 
 ### Testando funções
-- [ ] Projeto da aula anterior
-- [ ] Como testar uma função
+- [x] Projeto da aula anterior
+- [x] Como testar uma função
 - [ ] Testes unitários em funções
 - [ ] Identificando uma função pura
 - [ ] Faça como eu fiz
