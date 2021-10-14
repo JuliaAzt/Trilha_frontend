@@ -15,15 +15,15 @@
 ### Testando funções
 - [x] Projeto da aula anterior
 - [x] Como testar uma função
-- [ ] Testes unitários em funções
-- [ ] Identificando uma função pura
-- [ ] Faça como eu fiz
-- [ ] O que aprendemos?
+- [x] Testes unitários em funções
+- [x] Identificando uma função pura
+- [x] Faça como eu fiz
+- [x] O que aprendemos?
 
 ### Testando componentes React
-- [ ] Projeto da aula anterior
-- [ ] Teste com snapshot
-- [ ] Desafio
+- [x] Projeto da aula anterior
+- [x] Teste com snapshot
+- [x] Desafio
 - [ ] React Testing Library
 - [ ] Desafio
 - [ ] Renderizando os componentes
