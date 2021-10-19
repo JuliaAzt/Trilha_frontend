@@ -24,12 +24,12 @@
 - [x] Projeto da aula anterior
 - [x] Teste com snapshot
 - [x] Desafio
-- [ ] React Testing Library
-- [ ] Desafio
-- [ ] Renderizando os componentes
-- [ ] Como renderizar um componente?
-- [ ] Faça como eu fiz
-- [ ] O que aprendemos?
+- [x] React Testing Library
+- [x] Desafio
+- [x] Renderizando os componentes
+- [x] Como renderizar um componente?
+- [x] Faça como eu fiz
+- [x] O que aprendemos?
 
 ### Simulando comportamentos
 - [ ] Projeto da aula anterior
