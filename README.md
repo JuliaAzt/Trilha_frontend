@@ -32,8 +32,8 @@
 - [x] O que aprendemos?
 
 ### Simulando comportamentos
-- [ ] Projeto da aula anterior
-- [ ] Buscando elementos para o teste
+- [x] Projeto da aula anterior
+- [x] Buscando elementos para o teste
 - [ ] Para saber mais 
 - [ ] Simulando o retorno de uma API  
 - [ ] Testando código assíncrono  
