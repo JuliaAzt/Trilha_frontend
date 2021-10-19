@@ -34,17 +34,17 @@
 ### Simulando comportamentos
 - [x] Projeto da aula anterior
 - [x] Buscando elementos para o teste
-- [ ] Para saber mais 
-- [ ] Simulando o retorno de uma API  
-- [ ] Testando código assíncrono  
-- [ ] getBy ou findBy?  
-- [ ] Simulando uma função  
-- [ ] Como usamos o mock de função?  
-- [ ] Faça como eu fiz  
-- [ ] O que aprendemos? 
-- [ ] Projeto da aula anterior
+- [x] Para saber mais 
+- [x] Simulando o retorno de uma API  
+- [x] Testando código assíncrono  
+- [x] getBy ou findBy?  
+- [x] Simulando uma função  
+- [x] Como usamos o mock de função?  
+- [x] Faça como eu fiz  
+- [x] O que aprendemos? 
 
 ### Quando usar cada tipo de teste
+- [ ] Projeto da aula anterior
 - [ ] Tipos de teste e quando usá-los
 - [ ] Refletindo sobre o uso do teste
 - [ ] Faça como eu fiz
