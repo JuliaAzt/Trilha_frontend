@@ -44,13 +44,13 @@
 - [x] O que aprendemos? 
 
 ### Quando usar cada tipo de teste
-- [ ] Projeto da aula anterior
-- [ ] Tipos de teste e quando usá-los
-- [ ] Refletindo sobre o uso do teste
-- [ ] Faça como eu fiz
-- [ ] Projeto do curso 
-- [ ] O que aprendemos?
-- [ ] Conclusão
+- [x] Projeto da aula anterior
+- [x] Tipos de teste e quando usá-los
+- [x] Refletindo sobre o uso do teste
+- [x] Faça como eu fiz
+- [x] Projeto do curso 
+- [x] O que aprendemos?
+- [x] Conclusão
 
 
 
