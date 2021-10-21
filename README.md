@@ -1,11 +1,47 @@
-## Trilha frontend Alura
-|  | Branch | Curso |
-| --- | --- | --- |
-| ✔️ | [01_angular](https://github.com/JuliaAzt/Trilha_frontend/tree/01_angular) | Angular: Começando com o framework |
-| ✔️ | [02_angular](https://github.com/JuliaAzt/Trilha_frontend/tree/02_angular) | Angular: Boas práticas em arquiteturas e formulários |
-| ⏳ | [03_react](https://github.com/JuliaAzt/Trilha_frontend/tree/03_react) | React: Entendendo como a biblioteca funciona |
-|  | 04_react | React: Ciclo de vida dos componentes |
-|  | 05_react | React: Function Components, uma abordagem moderna |
-|  | 06_react | React: Hooks, Contextos e boas práticas |
-| ✔️ | [07_react](https://github.com/JuliaAzt/Trilha_frontend/tree/07_react)  | React: Automatizando os testes em aplicações front-end |
+# Ceep
+## Checklist
+### Criando o projeto
+- [x] Introdução
+- [x] Criando o projeto
+- [ ] Limpando o projeto
+- [ ] React por debaixo dos panos
+- [ ] Faça como eu fiz na aula
+- [ ] O que aprendemos?
+
+### Componentizando o sistema
+- [ ] Projeto da aula anterior
+- [ ] Criando componentes
+- [ ] Pensando de forma diferente
+- [ ] Praticando e utilizando plugins
+- [ ] Integrando o JS
+- [ ] Faça como eu fiz na aula
+- [ ] O que aprendemos?
+
+### Estilizando componentes
+- [ ] Projeto da aula anterior
+- [ ] Estilizando componentes
+- [ ] Conflito de nomes
+- [ ] Palavras Reservadas
+- [ ] Organizando o projeto
+- [ ] Faça como eu fiz na aula
+- [ ] O que aprendemos?
+
+### Lidando com eventos e propriedades
+- [ ] Projeto da aula anterior
+- [ ] Lidando com eventos
+- [ ] Binds
+- [ ] Referências para funções
+- [ ] Faça como eu fiz na aula
+- [ ] O que aprendemos?
+
+### Controlando o estado e a renderização
+- [ ] Projeto da aula anterior
+- [ ] Passando Propriedades
+- [ ] Mais Propriedades
+- [ ] O State
+- [ ] State e Props
+- [ ] Faça como eu fiz na aula
+- [ ] O que aprendemos?
+- [ ] Projeto final do curso
+- [ ] Conclusão
 
