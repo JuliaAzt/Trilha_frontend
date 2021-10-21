@@ -3,7 +3,7 @@
 ### Criando o projeto
 - [x] Introdução
 - [x] Criando o projeto
-- [ ] Limpando o projeto
+- [x] Limpando o projeto
 - [ ] React por debaixo dos panos
 - [ ] Faça como eu fiz na aula
 - [ ] O que aprendemos?
