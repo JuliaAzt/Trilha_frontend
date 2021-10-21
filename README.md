@@ -4,18 +4,18 @@
 - [x] Introdução
 - [x] Criando o projeto
 - [x] Limpando o projeto
-- [ ] React por debaixo dos panos
-- [ ] Faça como eu fiz na aula
-- [ ] O que aprendemos?
+- [x] React por debaixo dos panos
+- [x] Faça como eu fiz na aula
+- [x] O que aprendemos?
 
 ### Componentizando o sistema
-- [ ] Projeto da aula anterior
-- [ ] Criando componentes
-- [ ] Pensando de forma diferente
-- [ ] Praticando e utilizando plugins
-- [ ] Integrando o JS
-- [ ] Faça como eu fiz na aula
-- [ ] O que aprendemos?
+- [x] Projeto da aula anterior
+- [x] Criando componentes
+- [x] Pensando de forma diferente
+- [x] Praticando e utilizando plugins
+- [x] Integrando o JS
+- [x] Faça como eu fiz na aula
+- [x] O que aprendemos?
 
 ### Estilizando componentes
 - [ ] Projeto da aula anterior
