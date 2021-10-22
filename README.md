@@ -18,13 +18,13 @@
 - [x] O que aprendemos?
 
 ### Estilizando componentes
-- [ ] Projeto da aula anterior
-- [ ] Estilizando componentes
-- [ ] Conflito de nomes
-- [ ] Palavras Reservadas
-- [ ] Organizando o projeto
-- [ ] Faça como eu fiz na aula
-- [ ] O que aprendemos?
+- [x] Projeto da aula anterior
+- [x] Estilizando componentes
+- [x] Conflito de nomes
+- [x] Palavras Reservadas
+- [x] Organizando o projeto
+- [x] Faça como eu fiz na aula
+- [x] O que aprendemos?
 
 ### Lidando com eventos e propriedades
 - [ ] Projeto da aula anterior
