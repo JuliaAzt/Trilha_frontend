@@ -27,12 +27,12 @@
 - [x] O que aprendemos?
 
 ### Lidando com eventos e propriedades
-- [ ] Projeto da aula anterior
-- [ ] Lidando com eventos
-- [ ] Binds
-- [ ] Referências para funções
-- [ ] Faça como eu fiz na aula
-- [ ] O que aprendemos?
+- [x] Projeto da aula anterior
+- [x] Lidando com eventos
+- [x] Binds
+- [x] Referências para funções
+- [x] Faça como eu fiz na aula
+- [x] O que aprendemos?
 
 ### Controlando o estado e a renderização
 - [ ] Projeto da aula anterior
