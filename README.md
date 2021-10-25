@@ -20,13 +20,13 @@
 - [x] O que aprendemos?
 
 ### Seguindo padrões
-- [ ] Projeto da aula anterior
-- [ ] Seguindo padrões
-- [ ] Adicionando categorias aos cards
-- [ ] O estado da aplicação
-- [ ] Problemas da estrutura atual
-- [ ] Faça como eu fiz na aula
-- [ ] O que aprendemos?
+- [x] Projeto da aula anterior
+- [x] Seguindo padrões
+- [x] Adicionando categorias aos cards
+- [x] O estado da aplicação
+- [x] Problemas da estrutura atual
+- [x] Faça como eu fiz na aula
+- [x] O que aprendemos?
 
 ### Observable
 - [ ] Projeto da aula anterior
