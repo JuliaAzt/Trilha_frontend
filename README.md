@@ -29,13 +29,13 @@
 - [x] O que aprendemos?
 
 ### Observable
-- [ ] Projeto da aula anterior
-- [ ] Criando fonte de dados
-- [ ] Elevando o State
-- [ ] O padrão Observable
-- [ ] Criando lista de inscritos
-- [ ] Faça como eu fiz na aula
-- [ ] O que aprendemos?
+- [x] Projeto da aula anterior
+- [x] Criando fonte de dados
+- [x] Elevando o State
+- [x] O padrão Observable
+- [x] Criando lista de inscritos
+- [x] Faça como eu fiz na aula
+- [x] O que aprendemos?
 
 ### Ciclo de vida dos objetos
 - [ ] Projeto da aula anterior
