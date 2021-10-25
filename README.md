@@ -35,13 +35,13 @@
 - [x] O que aprendemos?
 
 ### Controlando o estado e a renderização
-- [ ] Projeto da aula anterior
-- [ ] Passando Propriedades
-- [ ] Mais Propriedades
-- [ ] O State
-- [ ] State e Props
-- [ ] Faça como eu fiz na aula
-- [ ] O que aprendemos?
-- [ ] Projeto final do curso
-- [ ] Conclusão
+- [x] Projeto da aula anterior
+- [x] Passando Propriedades
+- [x] Mais Propriedades
+- [x] O State
+- [x] State e Props
+- [x] Faça como eu fiz na aula
+- [x] O que aprendemos?
+- [x] Projeto final do curso
+- [x] Conclusão
 
