@@ -1,11 +1,50 @@
-## Trilha frontend Alura
-|  | Branch | Curso |
-| --- | --- | --- |
-| ✔️ | [01_angular](https://github.com/JuliaAzt/Trilha_frontend/tree/01_angular) | Angular: Começando com o framework |
-| ✔️ | [02_angular](https://github.com/JuliaAzt/Trilha_frontend/tree/02_angular) | Angular: Boas práticas em arquiteturas e formulários |
-| ✔️ | [03_react](https://github.com/JuliaAzt/Trilha_frontend/tree/03_react) | React: Entendendo como a biblioteca funciona |
-| ⏳ | [04_react](https://github.com/JuliaAzt/Trilha_frontend/tree/04_react) | React: Ciclo de vida dos componentes |
-|  | 05_react | React: Function Components, uma abordagem moderna |
-|  | 06_react | React: Hooks, Contextos e boas práticas |
-| ✔️ | [07_react](https://github.com/JuliaAzt/Trilha_frontend/tree/07_react)  | React: Automatizando os testes em aplicações front-end |
+# Ceep
+## Checklist
+### Deletando um card
+- [ ] Introdução
+- [ ] Projeto inicial do curso
+- [ ] Importando SVGs
+- [ ] Deletando cards
+- [ ] Propriedades de componentes
+- [ ] Faça como eu fiz na aula
+- [ ] O que aprendemos?
+
+### Criando lista de categorias
+- [ ] Projeto da aula anterior
+- [ ] Criando lista de categorias
+- [ ] Stateful e Stateless Components
+- [ ] Função dos componentes
+- [ ] Adicionando categorias dinamicamente
+- [ ] Quando usar state?
+- [ ] Faça como eu fiz na aula
+- [ ] O que aprendemos?
+
+### Seguindo padrões
+- [ ] Projeto da aula anterior
+- [ ] Seguindo padrões
+- [ ] Adicionando categorias aos cards
+- [ ] O estado da aplicação
+- [ ] Problemas da estrutura atual
+- [ ] Faça como eu fiz na aula
+- [ ] O que aprendemos?
+
+### Observable
+- [ ] Projeto da aula anterior
+- [ ] Criando fonte de dados
+- [ ] Elevando o State
+- [ ] O padrão Observable
+- [ ] Criando lista de inscritos
+- [ ] Faça como eu fiz na aula
+- [ ] O que aprendemos?
+
+### Ciclo de vida dos objetos
+- [ ] Projeto da aula anterior
+- [ ] Ciclo de vida dos objetos
+- [ ] Adicionando estado local
+- [ ] Montando um componente
+- [ ] Referências pra funções e bind
+- [ ] Faça como eu fiz na aula
+- [ ] O que aprendemos?
+- [ ] Projeto final do curso
+- [ ] Conclusão
 
