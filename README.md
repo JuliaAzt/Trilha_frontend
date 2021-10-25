@@ -1,13 +1,13 @@
 # Ceep
 ## Checklist
 ### Deletando um card
-- [ ] Introdução
-- [ ] Projeto inicial do curso
-- [ ] Importando SVGs
-- [ ] Deletando cards
-- [ ] Propriedades de componentes
-- [ ] Faça como eu fiz na aula
-- [ ] O que aprendemos?
+- [x] Introdução
+- [x] Projeto inicial do curso
+- [x] Importando SVGs
+- [x] Deletando cards
+- [x] Propriedades de componentes
+- [x] Faça como eu fiz na aula
+- [x] O que aprendemos?
 
 ### Criando lista de categorias
 - [ ] Projeto da aula anterior
