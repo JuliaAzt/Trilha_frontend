@@ -10,14 +10,14 @@
 - [x] O que aprendemos?
 
 ### Criando lista de categorias
-- [ ] Projeto da aula anterior
-- [ ] Criando lista de categorias
-- [ ] Stateful e Stateless Components
-- [ ] Função dos componentes
-- [ ] Adicionando categorias dinamicamente
-- [ ] Quando usar state?
-- [ ] Faça como eu fiz na aula
-- [ ] O que aprendemos?
+- [x] Projeto da aula anterior
+- [x] Criando lista de categorias
+- [x] Stateful e Stateless Components
+- [x] Função dos componentes
+- [x] Adicionando categorias dinamicamente
+- [x] Quando usar state?
+- [x] Faça como eu fiz na aula
+- [x] O que aprendemos?
 
 ### Seguindo padrões
 - [ ] Projeto da aula anterior

@@ -1,4 +1,3 @@
-
 import React, { Component } from "react";
 import "./estilo.css";
 import {ReactComponent as DeleteSVG} from "../../assets/img/delete.svg"
