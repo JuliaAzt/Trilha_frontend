@@ -1,15 +1,16 @@
 import React, { useState } from "react";
 import { Button, TextField, Switch, FormControlLabel } from "@material-ui/core";
 
-export function FormularioCadastro({ aoEnviar }) {
+export function FormularioCadastro({ aoEnviar, validacaoCPF }) {
   const [name, setName] = useState("");
   const [lastName, setLastName] = useState("");
   const [cpf, setCPF] = useState("");
   const [promo, setPromo] = useState(true);
   const [news, setNews] = useState(true);
   const [error, setError] = useState({
-    cpf: { valid: true, message: "" },
+    cpf: { valid: true, errorMessage: "O CPF deve conter 11 digitos" },
   });
+
   return (
     <form
       onSubmit={(event) => {
@@ -44,13 +45,11 @@ export function FormularioCadastro({ aoEnviar }) {
         onChange={(event) => {
           setCPF(event.target.value);
         }}
-        onBlur={(event) => {
-          setError({
-            cpf: { valid: false, message: "O CPF deve conter 11 digitos" },
-          });
+        onBlur={() => {
+          setError(validacaoCPF(cpf, error));
         }}
         error={!error.cpf.valid}
-        helperText={error.cpf.message}
+        helperText={error.cpf.valid ? "" : error.cpf.errorMessage}
         fullWidth
         variant="outlined"
         margin="normal"

@@ -45,9 +45,9 @@
 
 - [x] Projeto da aula anterior
 - [x] Exibindo erros no Material UI
-- [ ] Criando uma função de validação
-- [ ] Como organizar o código
-- [ ] Faça como eu fiz na aula
-- [ ] O que aprendemos?
-- [ ] Projeto final do curso
-- [ ] Conclusão
+- [x] Criando uma função de validação
+- [x] Como organizar o código
+- [x] Faça como eu fiz na aula
+- [x] O que aprendemos?
+- [x] Projeto final do curso
+- [x] Conclusão
