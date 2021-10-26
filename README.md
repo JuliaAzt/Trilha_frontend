@@ -23,13 +23,13 @@
 
 ### Forms e Hooks
 
-- [ ] Projeto da aula anterior
-- [ ] Formulários não controlados
-- [ ] UseState
-- [ ] Mais sobre o estado
-- [ ] Assincronicidade e validação
-- [ ] Faça como eu fiz na aula
-- [ ] O que aprendemos?
+- [x] Projeto da aula anterior
+- [x] Formulários não controlados
+- [x] UseState
+- [x] Mais sobre o estado
+- [x] Assincronicidade e validação
+- [x] Faça como eu fiz na aula
+- [x] O que aprendemos?
 
 ### Regras dos Hooks
 
