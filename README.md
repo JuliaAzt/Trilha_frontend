@@ -4,10 +4,10 @@
 
 ### Entendendo o problema
 
-- [ ] Introdução
-- [ ] Projeto inicial do curso
-- [ ] Entendendo o problema do cliente
-- [ ] Pensando sobre organização
+- [x] Introdução
+- [x] Projeto inicial do curso
+- [x] Entendendo o problema do cliente
+- [x] Pensando sobre organização
 - [ ] Criando formulários
 - [ ] Faça como eu fiz na aula
 - [ ] O que aprendemos?
