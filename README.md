@@ -1,11 +1,53 @@
-## Trilha frontend Alura
-|  | Branch | Curso |
-| --- | --- | --- |
-| ✔️ | [01_angular](https://github.com/JuliaAzt/Trilha_frontend/tree/01_angular) | Angular: Começando com o framework |
-| ✔️ | [02_angular](https://github.com/JuliaAzt/Trilha_frontend/tree/02_angular) | Angular: Boas práticas em arquiteturas e formulários |
-| ✔️ | [03_react](https://github.com/JuliaAzt/Trilha_frontend/tree/03_react) | React: Entendendo como a biblioteca funciona |
-| ⏳ | [04_react](https://github.com/JuliaAzt/Trilha_frontend/tree/04_react) | React: Ciclo de vida dos componentes |
-|  | 05_react | React: Function Components, uma abordagem moderna |
-|  | 06_react | React: Hooks, Contextos e boas práticas |
-| ✔️ | [07_react](https://github.com/JuliaAzt/Trilha_frontend/tree/07_react)  | React: Automatizando os testes em aplicações front-end |
+# Formulário de cadastro
 
+## Checklist
+
+### Iniciando com Functions components
+
+- [x] Introdução
+- [x] Primeiro Function Component
+- [x] Formas de criar componentes
+- [x] Facilitando a prototipação
+- [x] Faça como eu fiz na aula
+- [x] O que aprendemos?
+
+### Utilizando o Material UI
+
+- [ ] Projeto da aula anterior
+- [ ] Utilizando a documentação da lib
+- [ ] Layout e containers
+- [ ] Formas de customização
+- [ ] Tipografia e Switch
+- [ ] Faça como eu fiz na aula
+- [ ] O que aprendemos?
+
+### Forms e Hooks
+
+- [ ] Projeto da aula anterior
+- [ ] Formulários não controlados
+- [ ] UseState
+- [ ] Mais sobre o estado
+- [ ] Assincronicidade e validação
+- [ ] Faça como eu fiz na aula
+- [ ] O que aprendemos?
+
+### Regras dos Hooks
+
+- [ ] Projeto da aula anterior
+- [ ] Regras dos Hooks
+- [ ] Finalizando gerenciamento formulário
+- [ ] Faça como eu fiz na aula
+- [ ] Recebendo propriedades
+- [ ] Técnicas com JavaScript
+- [ ] O que aprendemos?
+
+### Tratamento de erros
+
+- [ ] Projeto da aula anterior
+- [ ] Exibindo erros no Material UI
+- [ ] Criando uma função de validação
+- [ ] Como organizar o código
+- [ ] Faça como eu fiz na aula
+- [ ] O que aprendemos?
+- [ ] Projeto final do curso
+- [ ] Conclusão
