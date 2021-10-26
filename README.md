@@ -16,10 +16,10 @@
 - [x] Projeto da aula anterior
 - [x] Utilizando a documentação da lib
 - [x] Layout e containers
-- [ ] Formas de customização
-- [ ] Tipografia e Switch
-- [ ] Faça como eu fiz na aula
-- [ ] O que aprendemos?
+- [x] Formas de customização
+- [x] Tipografia e Switch
+- [x] Faça como eu fiz na aula
+- [x] O que aprendemos?
 
 ### Forms e Hooks
 
