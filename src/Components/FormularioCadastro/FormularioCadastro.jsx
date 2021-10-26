@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Button, TextField, Switch, FormControlLabel } from "@material-ui/core";
 
-export function FormularioCadastro() {
+export function FormularioCadastro({ aoEnviar }) {
   const [name, setName] = useState("");
   const [lastName, setLastName] = useState("");
   const [cpf, setCPF] = useState("");
@@ -11,11 +11,7 @@ export function FormularioCadastro() {
     <form
       onSubmit={(event) => {
         event.preventDefault();
-        console.log(name);
-        console.log(lastName);
-        console.log(cpf);
-        console.log(promo);
-        console.log(news);
+        aoEnviar({ name, lastName, cpf, promo, news });
       }}
     >
       <TextField

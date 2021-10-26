@@ -36,10 +36,10 @@
 - [x] Projeto da aula anterior
 - [x] Regras dos Hooks
 - [x] Finalizando gerenciamento formulário
-- [ ] Faça como eu fiz na aula
-- [ ] Recebendo propriedades
-- [ ] Técnicas com JavaScript
-- [ ] O que aprendemos?
+- [x] Faça como eu fiz na aula
+- [x] Recebendo propriedades
+- [x] Técnicas com JavaScript
+- [x] O que aprendemos?
 
 ### Tratamento de erros
 
