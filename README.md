@@ -38,13 +38,13 @@
 - [x] O que aprendemos?
 
 ### Ciclo de vida dos objetos
-- [ ] Projeto da aula anterior
-- [ ] Ciclo de vida dos objetos
-- [ ] Adicionando estado local
-- [ ] Montando um componente
-- [ ] Referências pra funções e bind
-- [ ] Faça como eu fiz na aula
-- [ ] O que aprendemos?
-- [ ] Projeto final do curso
-- [ ] Conclusão
+- [x] Projeto da aula anterior
+- [x] Ciclo de vida dos objetos
+- [x] Adicionando estado local
+- [x] Montando um componente
+- [x] Referências pra funções e bind
+- [x] Faça como eu fiz na aula
+- [x] O que aprendemos?
+- [x] Projeto final do curso
+- [x] Conclusão
 
