@@ -43,8 +43,8 @@
 
 ### Tratamento de erros
 
-- [ ] Projeto da aula anterior
-- [ ] Exibindo erros no Material UI
+- [x] Projeto da aula anterior
+- [x] Exibindo erros no Material UI
 - [ ] Criando uma função de validação
 - [ ] Como organizar o código
 - [ ] Faça como eu fiz na aula

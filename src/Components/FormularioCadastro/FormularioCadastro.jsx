@@ -7,6 +7,9 @@ export function FormularioCadastro({ aoEnviar }) {
   const [cpf, setCPF] = useState("");
   const [promo, setPromo] = useState(true);
   const [news, setNews] = useState(true);
+  const [error, setError] = useState({
+    cpf: { valid: true, message: "" },
+  });
   return (
     <form
       onSubmit={(event) => {
@@ -41,6 +44,13 @@ export function FormularioCadastro({ aoEnviar }) {
         onChange={(event) => {
           setCPF(event.target.value);
         }}
+        onBlur={(event) => {
+          setError({
+            cpf: { valid: false, message: "O CPF deve conter 11 digitos" },
+          });
+        }}
+        error={!error.cpf.valid}
+        helperText={error.cpf.message}
         fullWidth
         variant="outlined"
         margin="normal"
