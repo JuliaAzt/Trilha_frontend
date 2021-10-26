@@ -2,52 +2,54 @@
 
 ## Checklist
 
-### Iniciando com Functions components
+### Entendendo o problema
 
-- [x] Introdução
-- [x] Primeiro Function Component
-- [x] Formas de criar componentes
-- [x] Facilitando a prototipação
-- [x] Faça como eu fiz na aula
-- [x] O que aprendemos?
+- [ ] Introdução
+- [ ] Projeto inicial do curso
+- [ ] Entendendo o problema do cliente
+- [ ] Pensando sobre organização
+- [ ] Criando formulários
+- [ ] Faça como eu fiz na aula
+- [ ] O que aprendemos?
 
-### Utilizando o Material UI
+### Separando formulários
 
-- [x] Projeto da aula anterior
-- [x] Utilizando a documentação da lib
-- [x] Layout e containers
-- [x] Formas de customização
-- [x] Tipografia e Switch
-- [x] Faça como eu fiz na aula
-- [x] O que aprendemos?
+- [ ] Projeto da aula anterior
+- [ ] Renderização condicional
+- [ ] Complexidade de código
+- [ ] Para saber mais
+- [ ] Injeção de dependências
+- [ ] Problemas com o SwitchCase
+- [ ] Faça como eu fiz na aula
+- [ ] O que aprendemos?
 
-### Forms e Hooks
+### Controlando Ciclo de vida
 
-- [x] Projeto da aula anterior
-- [x] Formulários não controlados
-- [x] UseState
-- [x] Mais sobre o estado
-- [x] Assincronicidade e validação
-- [x] Faça como eu fiz na aula
-- [x] O que aprendemos?
+- [ ] Projeto da aula anterior
+- [ ] Trabalhando com estados
+- [ ] useEffect
+- [ ] Código Assincrono
+- [ ] Stepper e finalização do form
+- [ ] Faça como eu fiz na aula
+- [ ] O que aprendemos?
 
-### Regras dos Hooks
+### Contextos e Providers
 
-- [x] Projeto da aula anterior
-- [x] Regras dos Hooks
-- [x] Finalizando gerenciamento formulário
-- [x] Faça como eu fiz na aula
-- [x] Recebendo propriedades
-- [x] Técnicas com JavaScript
-- [x] O que aprendemos?
+- [ ] Projeto da aula anterior
+- [ ] Funções de validação
+- [ ] Reutilizando regras de validação
+- [ ] Diminuindo responsabilidades
+- [ ] useContext
+- [ ] Faça como eu fiz na aula
+- [ ] O que aprendemos?
 
-### Tratamento de erros
+### Hooks customizados
 
-- [x] Projeto da aula anterior
-- [x] Exibindo erros no Material UI
-- [x] Criando uma função de validação
-- [x] Como organizar o código
-- [x] Faça como eu fiz na aula
-- [x] O que aprendemos?
-- [x] Projeto final do curso
-- [x] Conclusão
+- [ ] Projeto da aula anterior
+- [ ] Valores default
+- [ ] Hooks customizados
+- [ ] Lógica duplicada
+- [ ] Faça como eu fiz na aula
+- [ ] O que aprendemos?
+- [ ] Projeto final do curso
+- [ ] Conclusão
