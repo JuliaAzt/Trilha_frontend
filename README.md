@@ -33,9 +33,9 @@
 
 ### Regras dos Hooks
 
-- [ ] Projeto da aula anterior
-- [ ] Regras dos Hooks
-- [ ] Finalizando gerenciamento formulário
+- [x] Projeto da aula anterior
+- [x] Regras dos Hooks
+- [x] Finalizando gerenciamento formulário
 - [ ] Faça como eu fiz na aula
 - [ ] Recebendo propriedades
 - [ ] Técnicas com JavaScript
