@@ -4,9 +4,9 @@ import TextField from "@material-ui/core/TextField";
 export function FormularioCadastro(){
     return (
         <form>
-            <TextField fullWidth variant="outlined" margin="dense" label="Nome" id="nome"/> 
-            <TextField fullWidth variant="outlined" margin="dense" label="Sobrenome" id="sobrenome"/> 
-            <TextField fullWidth variant="outlined" margin="dense" label="CPF" id="cpf"/> 
+            <TextField fullWidth variant="outlined" margin="normal" label="Nome" id="nome"/> 
+            <TextField fullWidth variant="outlined" margin="normal" label="Sobrenome" id="sobrenome"/> 
+            <TextField fullWidth variant="outlined" margin="normal" label="CPF" id="cpf"/> 
 
             <label for="promocoes">Promoções</label>
             <input type="checkbox" name="promocoes"/>

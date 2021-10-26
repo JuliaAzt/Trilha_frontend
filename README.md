@@ -15,7 +15,7 @@
 
 - [x] Projeto da aula anterior
 - [x] Utilizando a documentação da lib
-- [ ] Layout e containers
+- [x] Layout e containers
 - [ ] Formas de customização
 - [ ] Tipografia e Switch
 - [ ] Faça como eu fiz na aula
