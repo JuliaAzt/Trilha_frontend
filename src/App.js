@@ -1,9 +1,12 @@
-import './App.css';
-import { FormularioCadastro } from './Components/FormularioCadastro/FormularioCadastro';
+import "./App.css";
+import { FormularioCadastro } from "./Components/FormularioCadastro/FormularioCadastro";
 
 function App() {
   return (
-    <><FormularioCadastro/></>
+    <>
+      <h1>Formulário de cadastro</h1>
+      <FormularioCadastro />
+    </>
   );
 }
 

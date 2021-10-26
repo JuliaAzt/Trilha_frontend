@@ -13,8 +13,8 @@
 
 ### Utilizando o Material UI
 
-- [ ] Projeto da aula anterior
-- [ ] Utilizando a documentação da lib
+- [x] Projeto da aula anterior
+- [x] Utilizando a documentação da lib
 - [ ] Layout e containers
 - [ ] Formas de customização
 - [ ] Tipografia e Switch
