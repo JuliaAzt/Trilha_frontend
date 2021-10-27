@@ -28,6 +28,7 @@ function DadosPessoais({ aoEnviar, validarCPF }) {
         margin="normal"
         label="Nome"
         id="nome"
+        required
       />
       <TextField
         value={lastName}
@@ -39,6 +40,7 @@ function DadosPessoais({ aoEnviar, validarCPF }) {
         margin="normal"
         label="Sobrenome"
         id="sobrenome"
+        required
       />
       <TextField
         value={cpf}
@@ -55,6 +57,7 @@ function DadosPessoais({ aoEnviar, validarCPF }) {
         margin="normal"
         label="CPF"
         id="cpf"
+        required
       />
       <FormControlLabel
         label="Promoções"

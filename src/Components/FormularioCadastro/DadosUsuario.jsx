@@ -9,7 +9,7 @@ function DadosUsuario({ aoEnviar }) {
     <form
       onSubmit={(event) => {
         event.preventDefault();
-        console.log({ email, password });
+        aoEnviar({ email, password });
       }}
     >
       <TextField
@@ -23,6 +23,7 @@ function DadosUsuario({ aoEnviar }) {
         margin="normal"
         label="E-mail"
         id="email"
+        required
       />
       <TextField
         value={password}
@@ -35,14 +36,10 @@ function DadosUsuario({ aoEnviar }) {
         margin="normal"
         label="Senha"
         id="senha"
+        required
       />
 
-      <Button
-        type="submit"
-        variant="contained"
-        color="primary"
-        onClick={aoEnviar}
-      >
+      <Button type="submit" variant="contained" color="primary">
         Cadastrar
       </Button>
     </form>

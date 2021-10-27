@@ -8,8 +8,9 @@ export function FormularioCadastro({ aoEnviar, validarCPF }) {
   const [dadosColetados, setDados] = useState({});
 
   useEffect(() => {
+    console.log("useEffect:");
     console.log(dadosColetados);
-  });
+  }, [dadosColetados]);
 
   const formularios = [
     <DadosUsuario aoEnviar={coletarDados} />,
