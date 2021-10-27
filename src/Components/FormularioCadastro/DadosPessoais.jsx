@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Button, TextField, Switch, FormControlLabel } from "@material-ui/core";
 
-export function DadosPessoais({ aoEnviar, validacaoCPF }) {
+function DadosPessoais({ aoEnviar, validarCPF }) {
   const [name, setName] = useState("");
   const [lastName, setLastName] = useState("");
   const [cpf, setCPF] = useState("");
@@ -46,7 +46,7 @@ export function DadosPessoais({ aoEnviar, validacaoCPF }) {
           setCPF(event.target.value);
         }}
         onBlur={() => {
-          setError(validacaoCPF(cpf, error));
+          setError(validarCPF(cpf, error));
         }}
         error={!error.cpf.valid}
         helperText={error.cpf.valid ? "" : error.cpf.errorMessage}
@@ -89,3 +89,4 @@ export function DadosPessoais({ aoEnviar, validacaoCPF }) {
     </form>
   );
 }
+export default DadosPessoais;

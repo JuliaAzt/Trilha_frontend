@@ -14,14 +14,14 @@
 
 ### Separando formulários
 
-- [ ] Projeto da aula anterior
-- [ ] Renderização condicional
-- [ ] Complexidade de código
-- [ ] Para saber mais
-- [ ] Injeção de dependências
-- [ ] Problemas com o SwitchCase
-- [ ] Faça como eu fiz na aula
-- [ ] O que aprendemos?
+- [x] Projeto da aula anterior
+- [x] Renderização condicional
+- [x] Complexidade de código
+- [x] Para saber mais
+- [x] Injeção de dependências
+- [x] Problemas com o SwitchCase
+- [x] Faça como eu fiz na aula
+- [x] O que aprendemos?
 
 ### Controlando Ciclo de vida
 

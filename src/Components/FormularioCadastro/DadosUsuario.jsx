@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Button, TextField } from "@material-ui/core";
 
-export function DadosUsuario() {
+function DadosUsuario({ aoEnviar }) {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
 
@@ -37,9 +37,15 @@ export function DadosUsuario() {
         id="senha"
       />
 
-      <Button type="submit" variant="contained" color="primary">
+      <Button
+        type="submit"
+        variant="contained"
+        color="primary"
+        onClick={aoEnviar}
+      >
         Cadastrar
       </Button>
     </form>
   );
 }
+export default DadosUsuario;

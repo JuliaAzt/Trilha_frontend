@@ -1,6 +1,6 @@
 import React from "react";
 import { TextField, Button } from "@material-ui/core";
-function DadosEntrega() {
+function DadosEntrega({ aoEnviar }) {
   return (
     <form>
       <TextField
@@ -39,7 +39,13 @@ function DadosEntrega() {
         variant="outlined"
         margin="normal"
       />
-      <Button type="submit" variant="contained" color="primary" fullWidth>
+      <Button
+        type="submit"
+        variant="contained"
+        color="primary"
+        fullWidth
+        onClick={aoEnviar}
+      >
         Finalizar Cadastro
       </Button>
     </form>
