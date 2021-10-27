@@ -8,9 +8,9 @@
 - [x] Projeto inicial do curso
 - [x] Entendendo o problema do cliente
 - [x] Pensando sobre organização
-- [ ] Criando formulários
-- [ ] Faça como eu fiz na aula
-- [ ] O que aprendemos?
+- [x] Criando formulários
+- [x] Faça como eu fiz na aula
+- [x] O que aprendemos?
 
 ### Separando formulários
 
