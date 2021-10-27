@@ -29,9 +29,9 @@
 - [x] Trabalhando com estados
 - [x] useEffect
 - [x] Código Assincrono
-- [ ] Stepper e finalização do form
-- [ ] Faça como eu fiz na aula
-- [ ] O que aprendemos?
+- [x] Stepper e finalização do form
+- [x] Faça como eu fiz na aula
+- [x] O que aprendemos?
 
 ### Contextos e Providers
 

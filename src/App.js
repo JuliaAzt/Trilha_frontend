@@ -14,7 +14,7 @@ function App() {
   };
 
   return (
-    <Container component="article" maxWidth="sm">
+    <Container component="article" maxWidth="sm" className="margin-t">
       <Typography variant="h4" align="center">
         Formulário de cadastro
       </Typography>
