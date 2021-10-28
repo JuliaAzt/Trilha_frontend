@@ -1,7 +1,8 @@
 import "./App.css";
 import { FormularioCadastro } from "./Components/FormularioCadastro/FormularioCadastro";
 import { Container, Typography } from "@material-ui/core";
-import { validarCPF, validarSenha } from "./Models/cadastro";
+import { validarCPF, validarSenha, validarNome } from "./Models/cadastro";
+import ValidacoesCadastro from "./Contexts/ValidacoesCadastro";
 function App() {
   const aoEnviarForm = (dados) => {
     console.log(dados);
@@ -17,14 +18,11 @@ function App() {
       >
         Formulário de cadastro
       </Typography>
-      <FormularioCadastro
-        aoEnviar={aoEnviarForm}
-        validacoes={{
-          cpf: validarCPF,
-          password: validarSenha,
-          name: validarSenha,
-        }}
-      />
+      <ValidacoesCadastro.Provider
+        value={{ cpf: validarCPF, password: validarSenha, name: validarNome }}
+      >
+        <FormularioCadastro aoEnviar={aoEnviarForm} />
+      </ValidacoesCadastro.Provider>
     </Container>
   );
 }

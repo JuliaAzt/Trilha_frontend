@@ -38,10 +38,10 @@
 - [x] Projeto da aula anterior
 - [x] Funções de validação
 - [x] Reutilizando regras de validação
-- [ ] Diminuindo responsabilidades
-- [ ] useContext
-- [ ] Faça como eu fiz na aula
-- [ ] O que aprendemos?
+- [x] Diminuindo responsabilidades
+- [x] useContext
+- [x] Faça como eu fiz na aula
+- [x] O que aprendemos?
 
 ### Hooks customizados
 
