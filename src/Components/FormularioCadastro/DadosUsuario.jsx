@@ -1,15 +1,30 @@
 import React, { useState } from "react";
 import { Button, TextField } from "@material-ui/core";
 
-function DadosUsuario({ aoEnviar }) {
+function DadosUsuario({ aoEnviar, validacoes }) {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
+  const [erros, setErros] = useState({ password: { valido: true, texto: "" } });
 
+  const validarCampos = (event) => {
+    const { name, value } = event.target;
+    const novoEstado = { ...erros };
+    novoEstado[name] = validacoes[name](value);
+    setErros(novoEstado);
+  };
+  const possoEnviar = () => {
+    for (let campo in erros) {
+      if (!erros[campo].valido) {
+        return false;
+      }
+    }
+    return true;
+  };
   return (
     <form
       onSubmit={(event) => {
         event.preventDefault();
-        aoEnviar({ email, password });
+        if (possoEnviar()) aoEnviar({ email, password });
       }}
     >
       <TextField
@@ -31,15 +46,19 @@ function DadosUsuario({ aoEnviar }) {
         onChange={(event) => {
           setPassword(event.target.value);
         }}
+        onBlur={validarCampos}
+        error={!erros.password.valido}
+        helperText={erros.password.texto}
         fullWidth
         variant="outlined"
         margin="normal"
         label="Senha"
         id="senha"
+        name="password"
         required
       />
 
-      <Button type="submit" variant="contained" color="primary">
+      <Button type="submit" variant="contained" color="primary" fullWidth>
         Cadastrar
       </Button>
     </form>

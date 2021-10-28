@@ -35,9 +35,9 @@
 
 ### Contextos e Providers
 
-- [ ] Projeto da aula anterior
-- [ ] Funções de validação
-- [ ] Reutilizando regras de validação
+- [x] Projeto da aula anterior
+- [x] Funções de validação
+- [x] Reutilizando regras de validação
 - [ ] Diminuindo responsabilidades
 - [ ] useContext
 - [ ] Faça como eu fiz na aula

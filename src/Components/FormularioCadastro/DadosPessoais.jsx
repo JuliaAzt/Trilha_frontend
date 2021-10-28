@@ -1,33 +1,55 @@
 import React, { useState } from "react";
 import { Button, TextField, Switch, FormControlLabel } from "@material-ui/core";
 
-function DadosPessoais({ aoEnviar, validarCPF }) {
-  const [name, setName] = useState("");
+function DadosPessoais({ aoEnviar, validacoes }) {
+  const [nome, setNome] = useState("");
   const [lastName, setLastName] = useState("");
   const [cpf, setCPF] = useState("");
   const [promo, setPromo] = useState(true);
   const [news, setNews] = useState(true);
-  const [error, setError] = useState({
-    cpf: { valid: true, errorMessage: "O CPF deve conter 11 digitos" },
+  const [erros, setErros] = useState({
+    cpf: { valido: true, texto: "" },
+    name: { valido: true, texto: "" },
   });
+
+  const validarCampos = (event) => {
+    const { name, value } = event.target;
+
+    const novoEstado = { ...erros };
+    novoEstado[name] = validacoes[name](value);
+    setErros(novoEstado);
+  };
+
+  const possoEnviar = () => {
+    for (let campo in erros) {
+      if (!erros[campo].valido) {
+        return false;
+      }
+    }
+    return true;
+  };
 
   return (
     <form
       onSubmit={(event) => {
         event.preventDefault();
-        aoEnviar({ name, lastName, cpf, promo, news });
+        if (possoEnviar()) aoEnviar({ nome, lastName, cpf, promo, news });
       }}
     >
       <TextField
-        value={name}
+        value={nome}
         onChange={(event) => {
-          setName(event.target.value);
+          setNome(event.target.value);
         }}
+        onBlur={validarCampos}
+        error={!erros.name.valido}
+        helperText={erros.name.texto}
         fullWidth
         variant="outlined"
         margin="normal"
         label="Nome"
-        id="nome"
+        id="name"
+        name="name"
         required
       />
       <TextField
@@ -40,6 +62,7 @@ function DadosPessoais({ aoEnviar, validarCPF }) {
         margin="normal"
         label="Sobrenome"
         id="sobrenome"
+        name="sobrenome"
         required
       />
       <TextField
@@ -47,17 +70,15 @@ function DadosPessoais({ aoEnviar, validarCPF }) {
         onChange={(event) => {
           setCPF(event.target.value);
         }}
-        onBlur={() => {
-          setError(validarCPF(cpf, error));
-        }}
-        error={!error.cpf.valid}
-        helperText={error.cpf.valid ? "" : error.cpf.errorMessage}
-        fullWidth
+        onBlur={validarCampos}
+        error={!erros.cpf.valido}
+        helperText={erros.cpf.texto}
+        id="CPF"
+        name="cpf"
+        label="CPF"
         variant="outlined"
         margin="normal"
-        label="CPF"
-        id="cpf"
-        required
+        fullWidth
       />
       <FormControlLabel
         label="Promoções"
@@ -86,7 +107,7 @@ function DadosPessoais({ aoEnviar, validarCPF }) {
         }
       />
 
-      <Button type="submit" variant="contained" color="primary">
+      <Button type="submit" variant="contained" color="primary" fullWidth>
         Cadastrar
       </Button>
     </form>

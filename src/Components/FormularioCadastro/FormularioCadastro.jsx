@@ -4,7 +4,7 @@ import DadosUsuario from "./DadosUsuario";
 import DadosEntrega from "./DadosEntrega";
 import { Alert, Stepper, Step, AlertTitle, StepLabel } from "@material-ui/core";
 
-export function FormularioCadastro({ aoEnviar, validarCPF }) {
+export function FormularioCadastro({ aoEnviar, validacoes }) {
   const [etapaAtual, setEtapaAtual] = useState(0);
   const [dadosColetados, setDados] = useState({});
 
@@ -14,9 +14,9 @@ export function FormularioCadastro({ aoEnviar, validarCPF }) {
   }, [dadosColetados]);
 
   const formularios = [
-    <DadosUsuario aoEnviar={coletarDados} />,
-    <DadosPessoais aoEnviar={coletarDados} validarCPF={validarCPF} />,
-    <DadosEntrega aoEnviar={coletarDados} />,
+    <DadosUsuario aoEnviar={coletarDados} validacoes={validacoes} />,
+    <DadosPessoais aoEnviar={coletarDados} validacoes={validacoes} />,
+    <DadosEntrega aoEnviar={coletarDados} validacoes={validacoes} />,
     <Alert severity="success" className="margin-t">
       <AlertTitle>Sucesso</AlertTitle>
       Cadastro feito com sucesso!
